@@ -12,6 +12,8 @@
         <strong><a href="/carro">Ir a Carros</a></strong>
         <br>
         <strong><a href="/categoria">Ir a Categorias</a></strong>
+        <br>
+        <strong><a href="/persona">Ir a personas</a></strong>
 
       </div>
 

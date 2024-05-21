@@ -5,6 +5,7 @@ import LoginPage from '../views/LoginPage.vue'
 import DasboardPage from '../views/DasboardPage.vue'
 import CarroPage from '@/views/CarroPage.vue';
 import CategoriaPage from '@/views/CategoriaPage.vue';
+import PersonaPage from '@/views/PersonaPage.vue';
 
 const routes: Array<RouteRecordRaw> = [
   {
@@ -34,6 +35,11 @@ const routes: Array<RouteRecordRaw> = [
     path: '/categoria',
     name: 'Categoria',
     component: CategoriaPage
+  },
+  {
+    path: '/persona',
+    name: 'Persona',
+    component: PersonaPage
   }
 ]
 
